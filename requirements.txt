@@ -11,4 +11,4 @@ tzdata==2022.7
 urllib3==1.26.15
 sqlparse==0.4.2
 whitenoise==6.2.0
-
+traitlets
